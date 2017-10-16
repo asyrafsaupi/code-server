@@ -1,0 +1,134 @@
+#+1507585291
+cc server c
+#+1507585314
+ee server.c
+#+1507585365
+cc server.c
+#+1507585608
+ee server.c
+#+1507585734
+cc server.c
+#+1507585778
+ee server.c
+#+1507585811
+cc server.c
+#+1507585826
+ee server.c
+#+1507585885
+cc server.c
+#+1507585891
+ls
+#+1507585993
+ee server.c
+#+1507586171
+cc server.c
+#+1507587247
+ifconfig
+#+1507588381
+ls
+#+1507588391
+./a.out
+#+1507588415
+./a.out 51717
+#+1507588576
+chmod 777 a.out
+#+1507588644
+cc server.c
+#+1507588666
+exit
+#+1507588986
+$gcc client.c && ./a.out
+#+1507589742
+./a.out 51717
+#+1507589968
+ee server.c
+#+1507591091
+cc -o server server.c
+#+1507591109
+./client.c
+#+1507591117
+./server.c
+#+1507591205
+ls
+#+1507594787
+poweroff
+#+1507654678
+ee
+#+1507655842
+cc serverr.c
+#+1507655915
+ee serverr.c
+#+1507655952
+ee serverr.c
+#+1507655986
+cc serverr.c
+#+1507656027
+ee serverr.c
+#+1507656040
+cc serverr.c
+#+1507656086
+ee serverr.c
+#+1507656361
+cc serverr.c
+#+1507656490
+ee serverr.c
+#+1507656634
+cc serverr.c
+#+1507656681
+ee serverr.c
+#+1507656739
+cc serverr.c
+#+1507657796
+ifconfig
+#+1507660324
+ls
+#+1507660353
+./a.out 56765
+#+1507660998
+./a.out 56765
+#+1507661016
+./a.out 56776
+#+1507661156
+cc server.c
+#+1507661518
+cc serverr.c
+#+1507661689
+./a.out 56765
+#+1507661999
+ee serverr.c
+#+1507663574
+ee serverr.c
+#+1507666971
+ee serverr.c
+#+1507673447
+ee
+#+1507674266
+javac Server.java
+#+1507674507
+java server
+#+1507674625
+ifconfig
+#+1507674715
+javac Server.java
+#+1507674745
+java Server
+#+1507675679
+poweroff
+#+1508108642
+sudo pkg update -f
+#+1508108674
+sudo pkg install git
+#+1508108819
+git init
+#+1508109082
+sudo pkg update -f
+#+1508109087
+cd
+#+1508109090
+cd/
+#+1508109093
+cd/.
+#+1508109097
+.cd/..
+#+1508109107
+exit
